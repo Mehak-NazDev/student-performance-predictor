@@ -52,7 +52,7 @@ student-performance-predictor/
 │   └── scaler.pkl
 ├── dashboard_app/                                     # Interactive web app
 │   └── app.py
-├── images/                                            # Screenshots or GIFs
+├── assets/                                            # Screenshots,demo_video,plots
 ├── README.md
 └── requirements.txt                            
 
