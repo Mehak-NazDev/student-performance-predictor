@@ -34,9 +34,9 @@ streamlit run dashboard_app/app.py
  ```
 ## 🚀 Interactive Dashboard Demonstration
 
-To see the model in action, click the preview image below to watch the 30-second dashboard demo video.
 
-[![Dashboard Preview](assets/image4_demo.png)](assets/dashboard.mp4)
+
+![Dashboard Preview](assets/image4_demo.png)
 
 ---
 
