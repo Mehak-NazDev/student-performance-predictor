@@ -1,4 +1,4 @@
-# 🎓 Student Performance Predictor - EdTech ML Project
+ # 🎓 Student Performance Predictor - EdTech ML Project
 
 Predict student academic performance with a **98.8% R² score** using study habits, sleep patterns, and previous scores.
 This project helps students understand factors affecting academic performance and provides insights for **study planning and optimization**.
@@ -30,7 +30,16 @@ pip install -r requirements.txt
 
 # 3. Run the Dashboard
 streamlit run dashboard_app/app.py
+
  ```
+## 🚀 Interactive Dashboard Demonstration
+
+To see the model in action, click the preview image below to watch the 30-second dashboard demo video.
+
+[![Dashboard Preview](assets/image4_demo.png)](assets/dashboard.mp4)
+
+---
+
 ## 📁 Project Structure
 ```
 student-performance-predictor/
