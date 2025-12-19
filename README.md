@@ -54,7 +54,7 @@ student-performance-predictor/
 │   └── app.py
 ├── assets/                                            # Screenshots,demo_video,plots
 ├── README.md
-└── requirements.txt                            
+└── requirements.txt                                   #Dependencies
 
 ```
 
@@ -100,7 +100,8 @@ student-performance-predictor/
  * Designed for study optimization & planning
  * Not intended for grading or official evaluation
  * Focus on growth and improvement insights
-   
+ * It is a demo project
+ 
 ## 📈 My Learning Journey
 
  * Week 3: Healthcare visualization project (foundation in data analysis)
